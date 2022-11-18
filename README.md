@@ -1,5 +1,8 @@
 # About Mastering 4 Skills Using Python Course
 190 problems to enhance problem-solving skills. 5 projects for Project Building and Design Skills. High-quality quizzes
+
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
 ### The Aim of this course 
 
 * __Programming Fundamentals__
